@@ -1,0 +1,3 @@
+X-Ray counter is a device that controls dental X-ray exposure to programmed number of milli seconds.
+This project was developed on a freescale microcontroller using resistive touch surface to prevent mechanical wear causing switches to malfunction.
+LEDs were used to highlight the button selected on touch.
